@@ -43,8 +43,6 @@ El informe permite explorar tendencias de ventas, comparar desempeño entre zona
 Aquí se muestra la sección principal del análisis (Resumen General):  
 ![Resumen General](img/Resumen%20General.png)
 
-*(Puedes agregar más capturas si lo consideras útil, guardándolas en la carpeta `/img` y enlazándolas igual que esta.)*
-
 ---
 
 ## Cómo Usar
