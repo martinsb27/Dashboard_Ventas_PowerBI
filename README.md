@@ -1,22 +1,22 @@
 # Dashboard de Ventas (Power BI)
 
-**Dashboard interactivo de ventas diseñado para visualizar KPIs y apoyar la toma de decisiones en la empresa.**
+**Dashboard interactivo de ventas diseñado para visualizar KPIs y apoyar la toma de decisiones comerciales.**
 
 ---
 
 ## Resumen del Proyecto
 
-Este proyecto consiste en un dashboard en Power BI que permite analizar el desempeño de ventas por producto, vendedor y región.  
-El dashboard proporciona métricas clave y visualizaciones interactivas para identificar tendencias, oportunidades y áreas de mejora.
+Este proyecto presenta un dashboard desarrollado en Power BI para analizar el rendimiento de ventas por producto, vendedor y región.  
+El informe permite explorar tendencias de ventas, comparar desempeño entre zonas y obtener insights para la toma de decisiones basada en datos.
 
 ---
 
 ## Impacto en el Negocio / Resultados Clave
 
-- Visualización clara de **ventas totales y por categoría de producto**.  
-- Ranking de los **mejores vendedores y zonas con mayor desempeño**.  
-- Seguimiento de tendencias mensuales y comparaciones año a año.  
-- Facilita la toma de decisiones basada en datos mediante KPIs interactivos.
+- Visualización clara de **métricas clave de ventas**, como ventas totales por producto y por vendedor.  
+- Identificación de **zonas y productos con mayor desempeño**.  
+- Facilita el análisis de tendencias de ventas con filtros interactivos.  
+- Dashboard fácil de usar por equipos no técnicos para explorar datos y tomar decisiones estratégicas.
 
 ---
 
@@ -24,24 +24,26 @@ El dashboard proporciona métricas clave y visualizaciones interactivas para ide
 
 - Power BI Desktop  
 - Microsoft Excel como fuente de datos  
-- Modelado de datos y transformación  
-- Visualizaciones interactivas y cálculos DAX
+- Modelado y transformación de datos  
+- Visualizaciones interactivas con DAX
 
 ---
 
-## Funcionalidades Clave
+## Aspectos Destacados del Dashboard
 
-- **Resumen de Ventas:** Ventas totales, transacciones y productos destacados.  
-- **Ranking de Vendedores:** Identificación de los mejores vendedores por región.  
-- **Análisis de Categorías:** Comparación de ventas por tipo de producto.  
-- **Filtros Interactivos:** Permiten explorar los datos de forma dinámica.
+- **Resumen General de Ventas:** Visualización de ventas totales, principales productos y comparativos por periodo.  
+- **Filtros Interactivos:** Permiten segmentar por región, vendedor o categorías.  
+- **Visualizaciones Rápidas:** Gráficos de barras, líneas y tablas para insights instantáneos.  
+- **Análisis por Categoría:** Permite profundizar en segmentos específicos de producto o zona.
 
 ---
 
-##  Capturas
+## Capturas del Dashboard
 
-*(Agrega capturas del dashboard en tu carpeta `/img` y enlázalas aquí)*  
-![Resumen General](img/Resumen General.png ) 
+Aquí se muestra la sección principal del análisis (Resumen General):  
+![Resumen General](img/Resumen%20General.png)
+
+*(Puedes agregar más capturas si lo consideras útil, guardándolas en la carpeta `/img` y enlazándolas igual que esta.)*
 
 ---
 
@@ -50,14 +52,13 @@ El dashboard proporciona métricas clave y visualizaciones interactivas para ide
 1. Descargar el archivo `.pbix`.  
 2. Abrir con **Power BI Desktop (versión 2022 o superior)**.  
 3. Conectar a tu fuente de datos o usar los datos de ejemplo proporcionados.  
-4. Explorar los gráficos interactivos y KPIs.
+4. Explorar los filtros, KPIs y gráficos interactivos.
 
 ---
 
 ## Aprendizajes y Habilidades Demostradas
 
-- Creación de **dashboards interactivos** con Power BI.  
+- Creación de **visualizaciones interactivas** con Power BI.  
 - Transformación y modelado de datos para análisis de negocio.  
-- Interpretación de KPIs y visualización de insights accionables.  
-- Aplicación de mejores prácticas en diseño y presentación de datos.
-
+- Interpretación de métricas clave y tendencias de ventas.  
+- Aplicación de mejores prácticas para diseño de dashboards útiles y claros.
